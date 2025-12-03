@@ -21,7 +21,7 @@ public class MathLibraryTest {
 
 	@Test
 	void additionTest(){
-		   assertEquals(5,mathLibrary.add(3,2));
+		   assertEquals(6,mathLibrary.add(3,2));
 	}
 
 	@Test
